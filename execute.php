@@ -26,7 +26,9 @@
 		
 		$verbs = [
 			"https://www.amazon.it/?tag=gioxx-21",
-			"https://amzn.to/2ZISSL7"];
+			"https://www.amazon.it/?tag=desigthoug-21",
+			"https://www.amazon.it/?tag=ab092-21",
+			"https://www.amazon.it/?tag=napolux-21"];
 
 		shuffle($verbs);	
 		$response = $verbs[0];
