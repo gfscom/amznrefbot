@@ -160,7 +160,7 @@
 		<p style="font-family: Arial, Helvetica, sans-serif;">Scarica <a href="https://telegram.org" />Telegram</a> e utilizza <a href="https://telegram.me/AmazonReferralBot" />@AmazonReferralBot</a></p>
 		<br /><img src="https://gxwarelabs.altervista.org/images/2019/09/10/Amazon_logo.png" style="max-width: 300px;" />
 		<p style="font-family: Arial, Helvetica, sans-serif; font-size: small; padding-top: 20px;"><em>@AmazonReferralBot</em> &egrave; un bot sperimentale per Telegram e non &egrave; associato in alcun modo ad Amazon.<br /><br />
-		<strong>Sviluppo</strong>: Gioxx &raquo; <strong>Versione</strong>: 0.1 &raquo; <strong>Revisione</strong>: 10092019 &raquo; <strong>Template</strong>: gfsC-newMinimalist 0.1 <strong>Modules</strong>: CSSInjected</p>
+		<strong>Sviluppo</strong>: Gioxx &raquo; <strong>Versione</strong>: 0.1 &raquo; <strong>Revisione</strong>: 10092019 &raquo; <strong>Template</strong>: gfsC-newMinimalist 0.1 &raquo; <strong>Modules</strong>: CSSInjected &raquo; <strong>Thanks to</strong>: <a href="https://www.selectallfromdual.com/blog/1437/creare-un-bot-per-telegram-in-php-su-heroku-con-dropbox-12" />Dummy-X</a></p>
 	</div>
   <br /><br />
 </body>
