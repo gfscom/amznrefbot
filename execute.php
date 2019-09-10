@@ -33,7 +33,7 @@
 		
 	} elseif(strpos($text, "/version") === 0 || strpos($text, "/version@AmazonReferralBot")) {
 		
-		$response = "#AmznRefBot 0.1 - Per segnalare nuovi referral apri una issue su GitHub: https://github.com/gfscom/amznrefbot/issues";
+		$response = "#AmznRefBot 0.1 - Per segnalare nuovi referral apri una issue su GitHub: https://github.com/gfscom/amznrefbot/issues (o se preferisci puoi sempre fare pull sul file execute.php)";
 		
 	} else {}
 
